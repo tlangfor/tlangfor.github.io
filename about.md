@@ -18,10 +18,10 @@ In 2018, he joined the staff of the Yale Center for Research Computing working t
 
 ## Education:
 
-Ph.D. 2013, University of Maryland, Experimental Nuclear Physics
+**Ph.D. 2013, University of Maryland, Experimental Nuclear Physics**
 
-Thesis Advisor: Prof. Elizabeth Beise
+**Thesis Advisor:** Prof. Elizabeth Beise
 
-Dissertation Title: Measurement of the Surface and Underground Neutron Spectra with the UMD/NIST Fast Neutron Spectrometers [link](http://drum.lib.umd.edu/handle/1903/14895)
+**Dissertation Title:** _Measurement of the Surface and Underground Neutron Spectra with the UMD/NIST Fast Neutron Spectrometers_ ([link](http://drum.lib.umd.edu/handle/1903/14895))
 
-Degree Date: October, 2013
+**Degree Date:** October, 2013
