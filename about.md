@@ -17,15 +17,11 @@ Major components of the DUNE experiment are to be constructed at Wright Lab. Bas
 In 2018, he joined the staff of the Yale Center for Research Computing working to assist the research community to better utilize the High Performance Computing (HPC) systems maintained by the center.
 
 ## Education:
-Ph.D. 2013, University of Maryland
-Field of Study:
-Experimental Nuclear Physics
-Thesis Advisor:
-Prof. Elizabeth Beise
-Dissertation Title:
-Measurement of the Surface and Underground Neutron Spectra with the UMD/NIST Fast Neutron Spectrometers
-Dissertation Abstract:
-http://drum.lib.umd.edu/handle/1903/14895
 
-Degree Date:
-October, 2013
+Ph.D. 2013, University of Maryland, Experimental Nuclear Physics
+
+Thesis Advisor: Prof. Elizabeth Beise
+
+Dissertation Title: Measurement of the Surface and Underground Neutron Spectra with the UMD/NIST Fast Neutron Spectrometers [link](http://drum.lib.umd.edu/handle/1903/14895)
+
+Degree Date: October, 2013
