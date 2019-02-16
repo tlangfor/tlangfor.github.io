@@ -24,7 +24,7 @@ Commissioned in early 2018, PROSPECT has already published a world-leading measu
 Major components of the DUNE experiment are to be constructed at Wright Lab. 
 Based on the success of construction of PROSPECT, he is assisting in the management and coordination of this large project.
 
-In 2018, he joined the staff of the [Yale Center for Research Computin](https://research.computing.yale.edu) working to assist the research community to better utilize the High Performance Computing (HPC) systems maintained by the center.
+In 2018, he joined the staff of the [Yale Center for Research Computing](https://research.computing.yale.edu) working to assist the research community to better utilize the High Performance Computing (HPC) systems maintained by the center.
 
 ## Education:
 
