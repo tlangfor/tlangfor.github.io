@@ -6,3 +6,9 @@ layout: default
 ---
 
 # Welcome!
+
+[About Me](/about.md)
+
+[Curriculum Vitae](/assets/LangfordResume.pdf)
+
+[Inspire HEP Profile](http://inspirehep.net/author/profile/T.J.Langford.1)
