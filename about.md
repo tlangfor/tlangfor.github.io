@@ -4,9 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-## Bio
+# Bio:
 
-Before joining Wright Laboratory, Thomas J. Langford received his BS, MS, and PhD from the University of Maryland, College Park. 
+Thomas J. Langford is an associate research scientist at the Yale Wright Laboratory.
+He joined the lab in 2013 as a postdoctoral research associate studying the properies of neutrinos.
+Before joining Wright Laboratory, he received his BS, MS, and PhD from the University of Maryland, College Park. 
 Working in the Experimental Nuclear Physics group, his thesis was on the development of segmented fast neutron spectrometers. 
 Two such detectors, FaNS-1 and FaNS-2, were built and characterized at the National Institute of Standards and Technology in Gaithersburg, MD before being installed at different underground laboratories. 
 There the detectors measured the ambient fast neutron flux and spectra at different depths. 
@@ -26,7 +28,7 @@ Based on the success of construction of PROSPECT, he is assisting in the managem
 
 In 2018, he joined the staff of the [Yale Center for Research Computing](https://research.computing.yale.edu) working to assist the research community to better utilize the High Performance Computing (HPC) systems maintained by the center.
 
-## Education:
+# Education:
 
 **Ph.D. 2013, University of Maryland, Experimental Nuclear Physics**
 
