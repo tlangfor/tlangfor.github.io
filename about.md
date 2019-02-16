@@ -21,8 +21,8 @@ A new measurement of the reactor flux is in agreement with previous experiments,
 Separately, the measured spectrum of antineutrinos deviates from state of the art theoretical predictions, possibly indicating holes in our understanding of reactor physics ([arXiv:1508.04233](https://arxiv.org/abs/1508.04233)).
 
 The PROSPECT experiment ([prospect.yale.edu](https://prospect.yale.edu)) aims to address both these anomalies through the deployment of segmented lithium-loaded liquid scintillator detector at the High Flux Isotope Reactor at Oak Ridge National Lab. 
-As a compact, highly-enriched uranium reactor, HFIR is well-suited for an experiment to explore short baseline oscillations and precisely measure the 235U antineutrino spectrum. 
-Commissioned in early 2018, PROSPECT has already published a world-leading measurement of the 235U spectrum ([arXiv:1812.10877](https://arxiv.org/abs/1812.10877)) and a search for sterile neutrino oscillations ([arXiv:1806.02784](https://arxiv.org/abs/1806.02784)).
+As a compact, highly-enriched uranium reactor, HFIR is well-suited for an experiment to explore short baseline oscillations and precisely measure the <sup>235</sup>U antineutrino spectrum. 
+Commissioned in early 2018, PROSPECT has already published a world-leading measurement of the <sup>235</sup>U spectrum ([arXiv:1812.10877](https://arxiv.org/abs/1812.10877)) and a search for sterile neutrino oscillations ([arXiv:1806.02784](https://arxiv.org/abs/1806.02784)).
 
 Major components of the DUNE experiment are to be constructed at Wright Lab. 
 Based on the success of construction of PROSPECT, he is assisting in the management and coordination of this large project.
