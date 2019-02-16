@@ -25,3 +25,5 @@ In 2018, he joined the staff of the Yale Center for Research Computing working t
 **Dissertation Title:** _Measurement of the Surface and Underground Neutron Spectra with the UMD/NIST Fast Neutron Spectrometers_ ([link](http://drum.lib.umd.edu/handle/1903/14895))
 
 **Degree Date:** October, 2013
+
+[**Curriculum Vitae**](/assets/LangfordResume.pdf)
