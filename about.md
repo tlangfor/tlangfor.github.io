@@ -8,6 +8,7 @@ permalink: /about/
 
 Thomas J. Langford is an associate research scientist at the Yale Wright Laboratory.
 He joined the lab in 2013 as a postdoctoral research associate studying the properies of neutrinos.
+
 Before joining Wright Laboratory, he received his BS, MS, and PhD from the University of Maryland, College Park. 
 Working in the Experimental Nuclear Physics group, his thesis was on the development of segmented fast neutron spectrometers. 
 Two such detectors, FaNS-1 and FaNS-2, were built and characterized at the National Institute of Standards and Technology in Gaithersburg, MD before being installed at different underground laboratories. 
