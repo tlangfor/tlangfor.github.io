@@ -9,6 +9,8 @@ layout: default
 
 [About Me](/about.md)
 
+[GitHub Projects](/projects.md)
+
 [Curriculum Vitae](/assets/LangfordResume.pdf)
 
 [Inspire HEP Profile](http://inspirehep.net/author/profile/T.J.Langford.1)
