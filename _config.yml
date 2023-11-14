@@ -18,8 +18,7 @@ title: Thomas J. Langford Ph.D.
 email: thomas.langford@yale.edu
 logo: /assets/photo_2.jpg
 description: # this means to ignore newlines until "baseurl:"
-  Associate Research Scientist, Yale Wright Laboratory
-  Computational Research Support, Yale Center for Research Computing 
+  Computational Research Facilitator, Yale Center for Research Computing 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
